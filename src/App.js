@@ -8,7 +8,6 @@ import Contact from './Pages/Contact';
 import Services from './Pages/Services';
 import Home from './Pages/Home';
 
-
 function NavigationBar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
